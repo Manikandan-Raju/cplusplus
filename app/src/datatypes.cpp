@@ -1,12 +1,6 @@
-#include <iostream>
-#include <string>
-#include <limits.h>
-#include <float.h>
+#include "app/include/datatypes.h"
 
-using namespace std;
-
-int main() {
-
+void  Datatypes::ranges(){
     cout << "char ranges from :                     " << CHAR_MIN << " to " << CHAR_MAX << " with size of " << sizeof(char) << " bytes" << endl;
     cout << "short char ranges from :               " << SCHAR_MIN << " to " << SCHAR_MAX << " with size of " << sizeof(signed char) << " bytes" << endl;
     cout << "unsigned char ranges from :            " << 0 << " to " << UCHAR_MAX << " with size of " << sizeof(unsigned char) << " bytes" << endl;
