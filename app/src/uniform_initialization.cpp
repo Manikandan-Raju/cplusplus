@@ -1,4 +1,4 @@
-#include "app/include/uniform_initialization.h"
+#include "app/include/uniform_initialization.hpp"
 
 void  Uniform_initialization::init(){
     int a1;                     // Uninitilaized

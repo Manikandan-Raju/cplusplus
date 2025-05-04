@@ -1,5 +1,5 @@
-#ifndef uniform_initialization_h
-#define uniform_initialization_h
+#ifndef uniform_initialization_hpp
+#define uniform_initialization_hpp
 
 
 #include <iostream>

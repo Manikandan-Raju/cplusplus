@@ -1,5 +1,5 @@
-#ifndef datatypes_h
-#define datatypes_h
+#ifndef datatypes_hpp
+#define datatypes_hpp
 
 #include <iostream>
 #include <string>

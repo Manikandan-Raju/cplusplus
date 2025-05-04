@@ -11,7 +11,7 @@ void sort(T arr[], int n)
     T temp;
     for (i = 0; i < n - 1; i++){
         for (j = i + 1; j < n; j++){
-            temp = arr[i]
+            temp = arr[i];
         }
     }
 }

@@ -7,7 +7,6 @@ struct  bitstructure
     int size;
     int on;
     int off;
-    int size;
 };
 
 

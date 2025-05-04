@@ -1,4 +1,4 @@
-#include "app/include/datatypes.h"
+#include "app/include/datatypes.hpp"
 
 void  Datatypes::ranges(){
     cout << "char ranges from :                     " << CHAR_MIN << " to " << CHAR_MAX << " with size of " << sizeof(char) << " bytes" << endl;
